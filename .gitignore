@@ -64,6 +64,8 @@ robots.txt
 update.php
 web.config
 
+.idea/
+
 core/
 modules/contrib/*
 themes/contrib/*
