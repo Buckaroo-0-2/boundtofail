@@ -1,0 +1,26 @@
+/*******************************/
+/* boundtofail.life Custom CSS */
+/*******************************/
+
+/* GLOBAL */
+.navbar-default .navbar-toggle {
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+}
+
+
+/* FRONTPAGE */
+#mobile-menu {
+  display: none;
+}
+
+
+
+/**********  less than 768px - Mobile **********/
+
+@media (max-width: 767px) {
+  #mobile-menu {
+    display: block;
+  }
+
+}
