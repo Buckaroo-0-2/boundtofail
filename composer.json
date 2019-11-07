@@ -6,7 +6,7 @@
     "require": {
         "composer/installers": "^1.0.24",
         "wikimedia/composer-merge-plugin": "^1.4",
-        "drush/drush": "^9.5",
+        "drush/drush": "^10.0",
         "drupal/honeypot": "^1.29",
         "drupal/metatag": "^1.8",
         "drupal/sitemap": "^1.5",
