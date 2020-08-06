@@ -69,5 +69,5 @@ web.config
 core/
 modules/contrib/*
 themes/contrib/*
-
+sites/
 
